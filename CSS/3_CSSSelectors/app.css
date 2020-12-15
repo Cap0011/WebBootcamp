@@ -37,3 +37,31 @@ footer>a{
 h2 + button{
     font-size: 20px;
 }
+input[type="password"]{
+    color: #c9ada7;
+}
+a[href*="google"]{
+    color: #9a8c98;
+}
+.post button:hover{
+    background-color: #c9ada7;
+}
+a:hover{
+    font-weight: bold;
+}
+.post button:active{
+    background-color: #774936;
+}
+
+.post:nth-of-type(2n){
+    background-color: #ffd3a8;
+}
+h2::first-letter{
+    font-size:40px;
+}
+p::first-line{
+    color: chocolate;
+}
+*::selection{
+    background-color: #c2aebf;
+}

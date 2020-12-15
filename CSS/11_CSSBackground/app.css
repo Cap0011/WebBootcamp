@@ -1,0 +1,13 @@
+section{
+    width: 80%;
+    height: 800px;
+    background-image: url("http://clipart-library.com/images/8TEb9p4ec.jpg");
+    background-size: cover;
+    background-position: top;
+    /*to prevent crash: center/cover */
+    margin: 0 auto;
+}
+h1{
+    font-size: 100px;
+    color: white;
+}

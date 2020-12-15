@@ -1,0 +1,24 @@
+span{
+    background-color: #f2b5d4;
+    border: solid black 1px;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+}
+h1{
+    background-color: #b2f7ef;
+    border: solid black 1px;
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    margin: 100px;
+    display: none;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: #f7d6e0;
+    border: 1px solid black;
+    display: inline-block;
+}
+/* Inline ignores width and height!! */
