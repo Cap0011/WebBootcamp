@@ -1,0 +1,39 @@
+/*
+*{
+    background-color: rgb(102, 102, 211);
+}
+*/
+body{
+    background-color: #f2e9e4;
+}
+button{
+    color:  #f2e9e4;
+    font-size: 25px;
+    background-color: #4a4e69;
+}
+h1, h2{
+    color: #22223b;
+}
+#sign{
+    background-color: #9a8c98;
+    color: #4a4e69;
+}
+.dot{
+    background-color: #c9ada7;
+    color: #f2e9e4;
+}
+span a{
+    color:#9a8c98;
+}
+
+li a{
+    color:#4a4e69;
+    text-decoration: none; 
+}
+footer>a{
+    color: red;
+    text-decoration: none;
+}
+h2 + button{
+    font-size: 20px;
+}
